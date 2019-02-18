@@ -1,0 +1,31 @@
+﻿Murder,2011,Staten Island,5
+Robbery,2011,Staten Island,23
+Crime Type,Year,Borough,Vol
+Assault,2011,Staten Island,6
+Burglary,2011,Staten Island,34
+Shooting,2011,Staten Island,12
+Housing,2011,Staten Island,3
+Murder,2011,Queens,13
+Robbery,2011,Queens,24
+Assault,2011,Queens,5
+Burglary,2011,Queens,3
+Shooting,2011,Queens,17
+Housing,2011,Queens,1
+Murder,2011,Manhattan,27
+Robbery,2011,Manhattan,35
+Assault,2011,Manhattan,23
+Burglary,2011,Manhattan,56
+Shooting,2011,Manhattan,20
+Housing,2011,Manhattan,40
+Murder,2011,Brooklyn,9
+Robbery,2011,Brooklyn,3
+Assault,2011,Brooklyn,17
+Burglary,2011,Brooklyn,5
+Shooting,2011,Brooklyn,12
+Housing,2011,Brooklyn,25
+Murder,2011,Bronx,54
+Robbery,2011,Bronx,38
+Assault,2011,Bronx,16
+Burglary,2011,Bronx,74
+Shooting,2011,Bronx,29
+Housing,2011,Bronx,9
